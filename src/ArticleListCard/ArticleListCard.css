@@ -1,0 +1,27 @@
+.card-background {
+  border-radius: 5px;
+  padding: 10px;
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.3);
+}
+
+.custom-card-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+p {
+  margin: 0%;
+  font-size: 13px;
+}
+
+.imgPlaceholder {
+  width: 30px;
+  height: 30px;
+  margin-top: 6px;
+  border-radius: 30px;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.row {
+  margin-bottom: 12px;
+}
