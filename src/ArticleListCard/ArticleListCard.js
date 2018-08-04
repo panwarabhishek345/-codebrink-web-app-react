@@ -17,7 +17,16 @@ class ArticleListCard extends Component {
                 I am a very simple card. I am good at containing small bits of
                 information.
               </p>
-              <div className="imgPlaceholder" />
+              <div className="details-container">
+                <div className="imgPlaceholder" />
+                <div className="details-text-container">
+                  <div className="details-container">
+                    <p className="author-name">Abhishek Panwar</p>
+                    <p className="author-name">200 views</p>
+                  </div>
+                  <p className="published-time">200 views</p>
+                </div>
+              </div>
             </div>
           </div>
         </div>
