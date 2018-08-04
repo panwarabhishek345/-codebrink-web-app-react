@@ -24,7 +24,7 @@ class ArticleListCard extends Component {
                     <p className="author-name">Abhishek Panwar</p>
                     <p className="author-name">200 views</p>
                   </div>
-                  <p className="published-time">200 views</p>
+                  <p className="published-time">1 week ago</p>
                 </div>
               </div>
             </div>
