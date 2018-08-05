@@ -8,11 +8,11 @@ import "./App.css";
 class App extends Component {
   styles = {
     iconRight: {
-      color: "black",
+      color: "grey",
       marginRight: 15
     },
     iconLeft: {
-      color: "black",
+      color: "grey",
       marginLeft: 15
     }
   };
