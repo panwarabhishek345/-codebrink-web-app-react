@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import ArticleListCard from "./ArticleListCard/ArticleListCard";
-import Tabs from "./tabs/tabs";
+import ArticleListCard from "./../ArticleListCard/ArticleListCard";
+import Tabs from "./../tabs/tabs";
 import "materialize-css"; // It installs the JS asset only
 import "materialize-css/dist/css/materialize.min.css";
 import "./App.css";
